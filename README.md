@@ -1,0 +1,1 @@
+The SHE CODE AFRICA DATA SCIENCE Bootcamp introduces one to the worlf od data science.The three-months programme provided a structured learning on python.Herein,ill share class assessments and projects from the bootcamp.
